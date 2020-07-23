@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">PrimeiroAplicativo</string>
+    <string name="insira_seu_primeiro_nome">Insira seu primeiro nome</string>
+    <string name="_1_aplicativo">1º Aplicativo</string>
+    <string name="insira_seu_ltimo_nome">Insira seu último nome</string>
+    <string name="insira_seu_n_mero">Insira seu número</string>
+    <string name="insira_seu_email">Insira seu email</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="desenvolvido_por_gabriel_perinazzo">Desenvolvido por Gabriel Perinazzo</string>
+    <string name="todo">TODO</string>
+    <string name="logo_do_senac">Logo do SENAC</string>
 </resources>
