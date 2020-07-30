@@ -20,13 +20,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        View clearBtn = findViewById(R.id.clearButton);
-        View saveBtn = findViewById(R.id.saveButton);
+        Button clearBtn = findViewById(R.id.clearButton);
+        Button saveBtn = findViewById(R.id.saveButton);
 
-        final TextView firstName = findViewById(R.id.firstNameInput);
-        final TextView lastName = findViewById(R.id.lastNameInput);
-        final TextView phoneNumber = findViewById(R.id.phoneInput);
-        final TextView emailAddress = findViewById(R.id.emailInput);
+        final EditText firstName = findViewById(R.id.firstNameInput);
+        final EditText lastName = findViewById(R.id.lastNameInput);
+        final EditText phoneNumber = findViewById(R.id.phoneInput);
+        final EditText emailAddress = findViewById(R.id.emailInput);
 
         clearBtn.setOnClickListener(new View.OnClickListener() {
             @Override
